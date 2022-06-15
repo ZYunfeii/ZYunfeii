@@ -1,5 +1,7 @@
 ### I'm Yunfei Zhang
 
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=C++&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=Linux" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=DIS" />
+
 - 💻 A Postgraduate Student from BUAA. & Open Source enthusiast.
 - 🌱 Currently studying in Beijing, China.
 - 💬 Ask me about C++, Linux and my projects on [yunfei_z@buaa.edu.cn](mailto:yunfei_z@buaa.edu.cn)
