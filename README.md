@@ -1,4 +1,4 @@
-<h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Yunfei+Zhang!)](https://git.io/typing-svg) </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Yunfei+Zhang!)](https://git.io/typing-svg)
 
 
 <img src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=C++&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux-1572B6?style=flat-square&logo=Linux" /> <img src="https://img.shields.io/badge/-DIS-oringe?style=flat-square&logo=DIS" /> <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /> <img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" /> <img src="https://img.shields.io/badge/-Docker-blueviolet?style=flat-square&logo=DIS" /> <img src="https://img.shields.io/badge/-Javascript-9cf?style=flat-square&logo=DIS" />
