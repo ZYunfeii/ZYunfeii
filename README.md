@@ -14,10 +14,6 @@
 
 
 
-<img src="https://metrics.lecoq.io/ZYunfeii?template=classic&config.timezone=Asia%2FShanghai">
-
-<img src="https://activity-graph.herokuapp.com/graph?username=ZYunfeii&theme=xcode" />
-
 
 
 ### Show some ❤️ by starring some of the repositories!
