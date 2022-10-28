@@ -10,7 +10,7 @@
 - 💬 Ask me about C++, Linux and my projects on [yunfei_z@buaa.edu.cn](mailto:yunfei_z@buaa.edu.cn)
 - ⚡ Fun fact: C++, Back-end development, DIS, QT, UAV, Linux, DRL. 
 - ⭐️ [My Blog](https://blog.csdn.net/weixin_43145941?spm=1001.2101.3001.5343): Here are a lot of meaningful work I have done in the past.
-- :cyclone: Languages: C++, C, Python, Matlab..
+- :cyclone: Languages: C++, C, Golang, Python, Matlab..
 
 
 
