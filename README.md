@@ -3,6 +3,11 @@
 
 <img src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=C++&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux-1572B6?style=flat-square&logo=Linux" /> <img src="https://img.shields.io/badge/-DIS-oringe?style=flat-square&logo=DIS" /> <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /> <img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" /> <img src="https://img.shields.io/badge/-Docker-blueviolet?style=flat-square&logo=DIS" /> <img src="https://img.shields.io/badge/-Javascript-9cf?style=flat-square&logo=DIS" /> <img src="https://img.shields.io/badge/-Golang-E34F26?style=flat-square&logo=C++&logoColor=white" />
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ZYunfeii/count.svg" />
+</p>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 
@@ -15,8 +20,6 @@
 - ⭐️ [My Blog](https://blog.csdn.net/weixin_43145941?spm=1001.2101.3001.5343): Here are a lot of meaningful work I have done in the past.
 - :cyclone: Languages: C++, C, Golang, Python, Matlab..
 
-
-
-
+<a href=#><img src="contributions.svg"></a>
 
 ### Show some ❤️ by starring some of the repositories!
