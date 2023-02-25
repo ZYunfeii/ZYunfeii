@@ -22,10 +22,42 @@
 
   <p>💻 A Postgraduate Student from BUAA. & Open Source enthusiast.</p>
   <p>🌱 Currently studying in Beijing, China.</p>
-  <p>💬 Ask me about C++, Linux and my projects on [yunfei_z@buaa.edu.cn](mailto:yunfei_z@buaa.edu.cn) </p>
+  <p>💬 Ask me about C++, Linux and my projects. E-mail: yunfei_z@buaa.edu.cn </p>
   <p>⚡ Fun fact: C++, Back-end development, DIS, QT, UAV, Linux, DRL.  </p>
   <p>:cyclone: Languages: C++, C, Golang, Python, Matlab.. </p>
 
+<h3>Main Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td><a href="https://github.com/linkall-labs/vanus"><b>Vanus</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/linkall-labs/vanus?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/linkall-labs/vanus?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/linkall-labs/vanus?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linkall-labs/vanus?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+ </tbody>
+ 
+ <tbody>
+     <tr>
+      <td><a href="https://github.com/ZYunfeii/UAV_Obstacle_Avoiding_DRL"><b>UAV_Obstacle_Avoiding_DRL</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ZYunfeii/UAV_Obstacle_Avoiding_DRL?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ZYunfeii/UAV_Obstacle_Avoiding_DRL?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ZYunfeii/UAV_Obstacle_Avoiding_DRL?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ZYunfeii/UAV_Obstacle_Avoiding_DRL?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+ </tbody>
+ 
+</table>
 
 <a href=#><img src="contributions.svg"></a>
 
