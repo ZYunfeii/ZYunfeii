@@ -21,10 +21,8 @@
 
 
   <p>💻 A Postgraduate Student from BUAA. & Open Source enthusiast.</p>
-  <p>🌱 Currently studying in Beijing, China.</p>
-  <p>💬 Ask me about C++, Linux and my projects. E-mail: yunfei_z@buaa.edu.cn </p>
+  <p>💬 E-mail: yunfei_z@buaa.edu.cn </p>
   <p>⚡ Fun fact: C++, Back-end development, DIS, QT, UAV, Linux, DRL.  </p>
-  <p>:cyclone: Languages: C++, C, Golang, Python, Matlab.. </p>
 
 <h3>Main Open source projects</h3>
 <table>
