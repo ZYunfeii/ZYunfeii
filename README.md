@@ -20,7 +20,7 @@
 
   <p>💻 A Postgraduate Student from BUAA. & Open Source enthusiast.</p>
   <p>💬 E-mail: yunfei_z@buaa.edu.cn </p>
-  <p>⚡ Fun fact: Java, C++, Python, Back-end development, DIS, QT, UAV, Linux, DRL.  </p>
+  <p>⚡ Fun fact: Java, C++, Python, Web, DIS, QT, UAV, Linux, DRL.  </p>
 
 <h3>Main Open source projects</h3>
 <table>
